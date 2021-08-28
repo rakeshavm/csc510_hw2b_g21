@@ -1,5 +1,5 @@
 import pytest
-from Program.increment import increment
+from code.increment import increment
 
 def test_increment():
     result = increment(5)
